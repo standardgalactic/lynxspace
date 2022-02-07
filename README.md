@@ -1,5 +1,11 @@
 # Container Workspace Environment for Development, Learning, and Experimentation
 
+Before you attempt to install lynxspace (I can think of no reason that you should,
+anyways, I highly recommend starting with workspace. Technically, I am just taking
+a snapshot or restore point before I inevitably break something.
+
+From rwxrob's workspace:
+
 This [GitHub] repo and [Docker] container contain the tools I use in my
 terminal-centric workspace. I use it to get a workspace quickly and to
 store all my custom installation information (latest Go, borderless
