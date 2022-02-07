@@ -1,6 +1,6 @@
 # Container Workspace Environment for Development, Learning, and Experimentation
 
-Before you attempt to install lynxspace (I can think of no reason that you should),
+Before you attempt to install lynxspace (I can think of no reason why you should),
 I highly recommend starting with workspace. Technically, I am just taking
 a snapshot or restore point before I inevitably break something.
 
